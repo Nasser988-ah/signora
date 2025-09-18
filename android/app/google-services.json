@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "840694503404",
+    "project_id": "signora-63c51",
+    "storage_bucket": "signora-63c51.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840694503404:android:5a9ff102081a992814d2c9",
+        "android_client_info": {
+          "package_name": "com.example.signora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840694503404-r0b7u115otc1pa67rmn7kjqfuj77b224.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.signora",
+            "certificate_hash": "0af8249262603daf0ab967a4006f7a93d0f19443"
+          }
+        },
+        {
+          "client_id": "840694503404-0glblciognjpci2ailgvnumblnc4o89i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuOhq6keGzfAphdtnwFw0Wrvc5Phb3DKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840694503404-0glblciognjpci2ailgvnumblnc4o89i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
